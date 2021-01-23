@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    background-color: rgb(230, 207, 207);
+}
+section{
+    height: 700px;
+    position: relative;
+}
+.green{
+    width: 600px;
+    height: 350px;
+    background-color: green;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    
+}
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.white{
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
